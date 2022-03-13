@@ -1,3 +1,5 @@
+## **This is a copied version of Tourts. The original repository has been set to private for grading purpose** ##
+
 # **cs35l_tourts 🎾**
 
 Github repository for CS35L web application Tourts 
