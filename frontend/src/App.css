@@ -1,0 +1,19 @@
+main {
+  margin-top: 5rem;
+}
+
+.loader {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.serves{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 33%;
+  
+}
