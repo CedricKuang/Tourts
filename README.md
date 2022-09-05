@@ -1,3 +1,5 @@
+## **Update 09/05/2022: We have closed the database due to extra charging.** ##
+
 ## **This is a copied version of Tourts. The original repository has been set to private for grading purpose** ##
 
 # **cs35l_tourts 🎾**
